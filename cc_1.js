@@ -42,3 +42,10 @@ let welcomeMessage = "Welcome aboard, "+ custoemrName + "! Your shopping adventu
 console.log(welcomeMessage);
 
 //Task 5: Access Control
+let isLoggedIn = true
+//Logical Operation
+if(!isLoggedIn){
+    console.log ("Access Denied. Please try to sign in again")
+} else {
+    console.log("Acess Granted! Welcome Back! We have missed you.")
+}
