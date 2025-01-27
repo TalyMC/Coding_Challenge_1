@@ -41,4 +41,4 @@ let custoemrName = "Jilly Joe"
 let welcomeMessage = "Welcome aboard, "+ custoemrName + "! Your shopping adventure starts here."
 console.log(welcomeMessage);
 
-//Task 5: Access Control 
+//Task 5: Access Control
