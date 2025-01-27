@@ -36,3 +36,9 @@ accountBalance /= 2
 console.log("Account Balance in half:", accountBalance);
 
 //Task 4: Customer Messaging
+let custoemrName = "Jilly Joe"
+
+let welcomeMessage = "Welcome aboard, "+ custoemrName + "! Your shopping adventure starts here."
+console.log(welcomeMessage);
+
+//Task 5: Access Control 
