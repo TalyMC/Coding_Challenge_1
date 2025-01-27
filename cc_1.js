@@ -17,3 +17,22 @@ console.log("Product Price", productPrice, "Type:",typeof productPrice);
 console.log("Is Available", isAvailable, "Type:", typeof isAvailable);
 
 //Task 3:Financial Transactions
+let accountBalance = 2500
+
+//Deposit
+accountBalance += 1000
+console.log("Account balance after deposit:",accountBalance);
+
+//Withdraw
+accountBalance -= 600
+console.log("Account balance after withdraw:", accountBalance);
+
+//Multipling 5% interest, 1.05
+accountBalance *= 1.05
+console.log("Account balance after interest:", accountBalance);
+
+//Dividing by 2 to split the balance
+accountBalance /= 2
+console.log("Account Balance in half:", accountBalance);
+
+//Task 4: Customer Messaging
